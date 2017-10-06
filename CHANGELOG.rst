@@ -2,8 +2,8 @@
 Changelog for package royale_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2017-10-06)
+------------------
 * Merge pull request `#1 <https://github.com/locusrobotics/royale_ros/issues/1>`_ from locusrobotics/catkinized-royale
   RST-549 Changes to reflect a catkinized royale
 * Changes to reflect a catkinized royale
